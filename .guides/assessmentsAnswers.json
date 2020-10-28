@@ -1,67 +1,13 @@
 [
  {
-  "taskId": "free-text-1700133787",
-  "state": {
-   "text": ""
-  },
-  "results": [],
-  "points": 0
- },
- {
-  "taskId": "multiple-choice-3807584795",
-  "points": 20,
-  "state": {
-   "active": [
-    "1e94a18f-fd46-0507-bb94-1eaed125a2af",
-    "a7cffe09-7c89-7685-f9a9-784ea0c27118"
-   ]
-  },
-  "results": [
-   {
-    "guidance": "The first and third answer will make the cat turn one complete revolution:\n\n<font size=\"3\"><center>$24 x 15 = 360$</center> </font>\n<font size=\"3\"><center>$12 x 30 = 360$</center> </font>\n\nThe second solution will make the cat turn forever.",
-    "current": [
-     "1e94a18f-fd46-0507-bb94-1eaed125a2af",
-     "a7cffe09-7c89-7685-f9a9-784ea0c27118"
-    ],
-    "right": [
-     "1e94a18f-fd46-0507-bb94-1eaed125a2af",
-     "a7cffe09-7c89-7685-f9a9-784ea0c27118"
-    ],
-    "timestamp": 1603745645874,
-    "state": "pass"
-   }
-  ]
- },
- {
-  "taskId": "test-3605319805",
-  "points": 20,
+  "taskId": "test-178347700",
+  "points": 0,
   "results": [
    {
     "guidance": null,
     "format": null,
-    "output": "Nice job using the go to block!",
-    "timestamp": 1603835036646,
-    "state": "pass"
-   },
-   {
-    "guidance": null,
-    "format": null,
-    "output": "Use the go to block to position the cat at the starting point",
-    "timestamp": 1603835030485,
-    "state": "fail"
-   },
-   {
-    "guidance": null,
-    "format": null,
-    "output": "Use the go to block to position the cat at the starting point",
-    "timestamp": 1603835021773,
-    "state": "fail"
-   },
-   {
-    "guidance": null,
-    "format": null,
-    "output": "sh: 1: unzip: not found\nTraceback (most recent call last):\n  File \".guides/secure/setupfixit2/setupfixit2_test.py\", line 7, in <module>\n    with open(json_file, \"r\") as code:\nFileNotFoundError: [Errno 2] No such file or directory: '.guides/secure/setupfixit2/project.json'",
-    "timestamp": 1603834973445,
+    "output": "Archive:  advancedTest.sb3\nreplace project.json? [y]es, [n]o, [A]ll, [N]one, [r]ename:  NULL\n(EOF or read error, treating as \"[N]one\" ...)\nYou did not use the looks_cleargraphiceffects block.",
+    "timestamp": 1603923377754,
     "state": "fail"
    }
   ]

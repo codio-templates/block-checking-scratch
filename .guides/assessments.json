@@ -115,5 +115,115 @@
    "bloomsObjectiveLevel": "",
    "learningObjectives": ""
   }
+ },
+ {
+  "type": "code-output-compare",
+  "taskId": "code-output-compare-3342143826",
+  "source": {
+   "name": "Block Checker",
+   "showName": true,
+   "instructions": "Save your work before running the block checker. Make sure your program has the following blocks:\n* Go to xy\n* Say for seconds\n* Click green flag\n* Click spirte",
+   "command": "bash .guides/secure/standard-command/helper.sh",
+   "preExecuteCommand": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "points": 20,
+   "oneTimeTest": false,
+   "options": {
+    "ignoreCase": true,
+    "ignoreWhitespaces": true,
+    "ignoreNewline": true,
+    "matchSubstring": true,
+    "timeout": 30
+   },
+   "showExpectedAnswer": true,
+   "arePartialPointsAllowed": false,
+   "sequence": [
+    {
+     "arguments": "event_whenflagclicked",
+     "input": "",
+     "output": "true",
+     "showFeedback": true,
+     "feedback": "You did not use a \"When flag clicked\" block."
+    },
+    {
+     "arguments": "looks_sayforsecs",
+     "input": "",
+     "output": "true",
+     "showFeedback": true,
+     "feedback": "You did not use a \"Say ___ for ___ seconds\" bock."
+    },
+    {
+     "arguments": "event_whenthisspriteclicked",
+     "input": "",
+     "output": "true",
+     "showFeedback": true,
+     "feedback": "You did not use a \"When sprite clicked\" block."
+    },
+    {
+     "arguments": "motion_gotoxy",
+     "input": "",
+     "output": "true",
+     "showFeedback": true,
+     "feedback": "You did not use a \"Go to\" block."
+    }
+   ],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Standard Code Test"
+     }
+    ],
+    "files": [
+     "setupfixit2.sb3"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "setupfixit2.sb3"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-178347700",
+  "source": {
+   "name": "Advanced Code Test",
+   "showName": true,
+   "instructions": "Save your Scratch file before evaluating it.",
+   "command": "bash .guides/secure/advanced-example/helper.sh blocksToCheck.txt",
+   "arePartialPointsAllowed": false,
+   "timeoutSeconds": 40,
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "points": 20,
+   "oneTimeTest": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Advanced Code Test"
+     }
+    ],
+    "files": [
+     "advancedTest.sb3"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "advancedTest.sb3"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
  }
 ]

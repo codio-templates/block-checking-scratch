@@ -1,0 +1,4 @@
+event_whenthisspriteclicked
+control_repeat
+looks_changeeffectby
+looks_cleargraphiceffects
