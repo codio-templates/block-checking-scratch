@@ -48,6 +48,12 @@
    "title": "Advanced Code Test",
    "pageId": "422a307f-ee87-941d-7b86-c2efcc86bef0",
    "type": "page"
+  },
+  {
+   "id": "21ce3336-5178-6368-9bb5-37288904fe86",
+   "title": "Advanced Code Test UI",
+   "pageId": "5cfbe6f8-4ba1-9896-15dd-bc68af39f7ed",
+   "type": "page"
   }
  ]
 }

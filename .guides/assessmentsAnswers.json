@@ -1,14 +1,21 @@
 [
  {
   "taskId": "test-178347700",
-  "points": 0,
+  "points": 20,
   "results": [
    {
     "guidance": null,
     "format": null,
-    "output": "Archive:  advancedTest.sb3\nreplace project.json? [y]es, [n]o, [A]ll, [N]one, [r]ename:  NULL\n(EOF or read error, treating as \"[N]one\" ...)\nYou did not use the looks_cleargraphiceffects block.",
-    "timestamp": 1603923377754,
-    "state": "fail"
+    "output": "You have used all of the required blocks",
+    "timestamp": 1604000467362,
+    "state": "pass"
+   },
+   {
+    "guidance": null,
+    "format": null,
+    "output": "You have used all of the required blocks",
+    "timestamp": 1604000408688,
+    "state": "pass"
    }
   ]
  }
