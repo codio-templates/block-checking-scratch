@@ -2,48 +2,6 @@
  "name": "Scratch in Codio",
  "children": [
   {
-   "title": "Good Morning, Scratch",
-   "id": "85b125e3-133f-1ab8-27d0-29a6ff8e8c48",
-   "pageId": "85b125e3-133f-1ab8-27d0-29a6ff8e8c48",
-   "type": "page"
-  },
-  {
-   "title": "Scratch Final Project",
-   "id": "7ea997ae-d6c8-a1a4-715d-f62aa586249e",
-   "pageId": "7ea997ae-d6c8-a1a4-715d-f62aa586249e",
-   "type": "page"
-  },
-  {
-   "id": "3b0eedcc-e9ef-16a2-d776-543568439580",
-   "title": "Reflect on your work",
-   "pageId": "09ce0c11-34e1-1e56-973a-7ae34ba86da6",
-   "type": "page"
-  },
-  {
-   "id": "54c67bb1-ddf1-e483-56a9-10791626eed3",
-   "title": "Quiz",
-   "pageId": "0687b030-bd86-b7d3-6031-39ed75b5d94e",
-   "type": "page"
-  },
-  {
-   "id": "06e8119f-610d-b40e-a89a-ed13fba378ca",
-   "title": "Auto-Graded Assessment",
-   "pageId": "1bf7364e-d83c-3baf-8077-ae12fc170f0e",
-   "type": "page"
-  },
-  {
-   "id": "6720d66a-ca50-c38b-3f9f-e8b20d84c1cc",
-   "title": "Scratch Parser",
-   "pageId": "48e5a178-d4e4-b437-11c3-583b8fbc0a86",
-   "type": "page"
-  },
-  {
-   "id": "d745d4f9-1b88-8b89-746f-954d3737d261",
-   "title": "Standard Code Test - Command Line",
-   "pageId": "6952aa48-7ff9-ea7f-a6ac-6f43a26d6e40",
-   "type": "page"
-  },
-  {
    "id": "7443003d-4699-0fbb-8284-c361553f774f",
    "title": "Advanced Code Test",
    "pageId": "422a307f-ee87-941d-7b86-c2efcc86bef0",

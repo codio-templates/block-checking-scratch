@@ -13,7 +13,7 @@ In order to reduce the friction as much as possible for teachers, a custom UI sh
 
 The platform would need to automate the following things:
 * Create the test folder `test1`
-* Save the desired (step 3 from above) to the test directory
+* Save a text file of the desired blocks (step 3 from above) to the test directory
 * Create the helper test script using a template
   * The command line argument (`blocks="$1"`) is generated from the UI above (list of all of the blocks the instructor clicked on)
   * The student file comes from the UI above
