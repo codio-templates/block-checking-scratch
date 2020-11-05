@@ -7,6 +7,48 @@
     "guidance": null,
     "format": null,
     "output": "You have used all of the required blocks",
+    "timestamp": 1604594812106,
+    "state": "pass"
+   },
+   {
+    "guidance": null,
+    "format": null,
+    "output": "You did not use the looks_cleargraphiceffects block.",
+    "timestamp": 1604594799248,
+    "state": "fail"
+   },
+   {
+    "guidance": null,
+    "format": null,
+    "output": "You have used all of the required blocks",
+    "timestamp": 1604594793232,
+    "state": "pass"
+   },
+   {
+    "guidance": null,
+    "format": null,
+    "output": "You have used all of the required blocks",
+    "timestamp": 1604086011834,
+    "state": "pass"
+   },
+   {
+    "guidance": null,
+    "format": null,
+    "output": "You did not use the control_repeat block.\nYou did not use the looks_changeeffectby block.\nYou did not use the looks_cleargraphiceffects block.",
+    "timestamp": 1604085960142,
+    "state": "fail"
+   },
+   {
+    "guidance": null,
+    "format": null,
+    "output": "You have used all of the required blocks",
+    "timestamp": 1604085953752,
+    "state": "pass"
+   },
+   {
+    "guidance": null,
+    "format": null,
+    "output": "You have used all of the required blocks",
     "timestamp": 1604000467362,
     "state": "pass"
    },

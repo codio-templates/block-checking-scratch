@@ -1,12 +1,14 @@
 # Block Checking with an Advanced Code Test
 
-To check for desired scratch blocks, you need three components:
-* Text file with official names of the desired blocks
-* A helper script
-* A test script
+The files used for this advanced code test can be found in `.guides/secure/advanced-example`:
+* `blocksToCheck.txt` - text file with the blocks to be found in the Scratch program; use the official names for the blocks
+* `helper.sh` - script that copies the student file to the test directory, unzip the student file, and call the test script
+* `parseAdvanced.js` - script that checks for the presence of blocks (parses the JSON file)
+* `project.json` - created during the unzip process; has all of the information about the Scratch project
+* All of the other files were created as a part of the unzip process; these are not needed for auto-grading
 
 ### Text File
-The text file has list of the desired blocks. These blocks need to be written with "official" name. You can look up the official name [here](https://docs.google.com/spreadsheets/d/1WUp5XHwSCwj3IppemIkhd-w_l5edsfx6cOAHhoRZDE0/edit?usp=sharing). Put one block per line.
+The text file has list of the desired blocks. These blocks need to be written with "official" name. You can look up the official name [here](https://docs.google.com/spreadsheets/d/1WUp5XHwSCwj3IppemIkhd-w_l5edsfx6cOAHhoRZDE0/edit?usp=sharing) (still a work in progress). Put one block per line.
 
 ### Helper Script
 Block checking is composed of a helper script in Bash that:

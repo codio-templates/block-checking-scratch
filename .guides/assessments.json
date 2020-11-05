@@ -196,7 +196,7 @@
   "source": {
    "name": "Advanced Code Test",
    "showName": true,
-   "instructions": "Save your Scratch file before evaluating it.",
+   "instructions": "Save your Scratch file before evaluating it.\n\nThe grading script is looking for the following blocks:\n![Required Blocks](.guides/img/required_blocks.png)",
    "command": "bash .guides/secure/advanced-example/helper.sh blocksToCheck.txt",
    "arePartialPointsAllowed": false,
    "timeoutSeconds": 40,
